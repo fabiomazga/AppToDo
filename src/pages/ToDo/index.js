@@ -1,7 +1,7 @@
 
 import React, {useState} from 'react';
 import { StyleSheet, View, StyleView, Text, ScrollView, TouchableOpacity, Modal } from 'react-native';
-import { TextInput, Button } from 'react-native-paper';
+
 
 export default function ToDo() {
 
