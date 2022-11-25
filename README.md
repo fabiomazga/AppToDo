@@ -7,6 +7,7 @@ Projeto em React-Native
 
 ## Instalação
 - `npm install`
+-  `npm i react-native-paper`
 
 ## Rodar
 - ` expo start`
